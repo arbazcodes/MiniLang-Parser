@@ -1,0 +1,4 @@
+// Test Case 1
+// This program assigns a value to a variable and prints it.
+x = 10;
+print x;

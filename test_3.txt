@@ -1,0 +1,4 @@
+// Test Case 3
+// This program performs arithmetic operations and prints the result.
+result = 2 * (3 + 4) / 2;
+print result;

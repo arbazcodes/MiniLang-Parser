@@ -1,0 +1,4 @@
+// Test Case 5
+// This program contains a syntax error to test error handling.
+y = 5 +
+print y;

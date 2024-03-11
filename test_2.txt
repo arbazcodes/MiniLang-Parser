@@ -1,0 +1,6 @@
+// Test Case 2
+// This program uses an if statement to check if a value is greater than 5.
+if x > 5:
+    print "x is greater than 5";
+else:
+    print "x is not greater than 5";
