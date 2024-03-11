@@ -5,11 +5,11 @@ This repository contains a simple parser for the MiniLang programming language. 
 To use the MiniLang parser, follow these steps:
 
 ### Clone the repository:
-*** git clone https://github.com/your-username/minilang-parser.git
-cd minilang-parser *** 
+***git clone https://github.com/your-username/minilang-parser.git
+cd minilang-parser*** 
 
 ### Run the parser on a MiniLang source code file:
-*** python minilang_parser.py <file_path> ***
+***python minilang_parser.py <file_path>***
 Replace <file_path> with the path to your MiniLang source code file.
 
 ## Language Specifications
